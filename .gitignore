@@ -1,0 +1,30 @@
+# Node.js modules
+node_modules/
+
+# Build output
+build/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE-specific files
+.vscode/
+*.swp
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Lock files (if not using npm or yarn exclusively)
+yarn.lock
